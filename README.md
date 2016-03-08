@@ -9,3 +9,5 @@ Additional arguments will be taken as port values starting at port 0.
 
 "./a.out Assembly.txt 1 2 3 4"
 
+In order to step through the program press enter. 
+
